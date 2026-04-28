@@ -20,7 +20,6 @@
   <a href="#backend-modules">Backend Modules</a> •
   <a href="#scripts">Scripts</a> •
   <a href="#what-we-learned">What We Learned</a> •
-  <a href="#the-team">The Team</a>
 </p>
 
 <div align="center">
